@@ -1,0 +1,18 @@
+body {
+    font-family: 'Brush Script MT', cursive;
+  }
+#main{
+    background-color: #e6e5e5;
+    margin: 25px 10px;
+}
+#img-div{
+    background-color: white;
+}
+#image{
+    max-width: 100%;
+    display: block;
+}
+ul{
+        padding: 10px 25%;
+}
+
